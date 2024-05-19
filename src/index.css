@@ -10,9 +10,8 @@ body {
 }
 
 body {
-  background-image: url("back-img.png");
-  background-size: cover;
-  background-repeat: no-repeat;
+  /* background-size: cover;
+  background-repeat: no-repeat; */
   height: 100%;
   font-family: "Roboto Slab", serif;
 }

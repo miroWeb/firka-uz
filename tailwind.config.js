@@ -2,7 +2,12 @@
 export default {
   content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
-    extend: {},
+    extend: {
+      // backgroundImage: {
+      //   "hero-pattern": "url('/img/hero-pattern.svg')",
+      //   bgImg: "url('/back-img.png')",
+      // },
+    },
   },
   plugins: [require("daisyui")],
 };
