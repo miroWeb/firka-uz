@@ -5,7 +5,7 @@ function Main() {
     <div className="container">
       <div className="mb-[50px] lg:flex justify-between items-center px-[60px]">
         <h1 className="text-white text-center text-[35px] lg:text-[80px]">
-          Abduvakhobov mfoefeio<br /> Firdavs
+          Abduvakhobov<br /> Firdavs
         </h1>
         <div className="flex justify-center">
           <img
